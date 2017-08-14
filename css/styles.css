@@ -1,0 +1,42 @@
+/* add your CSS here */
+body {
+	width: 320px;
+	border: solid 1px #000;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 2px #777;
+}
+
+h1 {
+	color: #fff;
+	font-family: palatino;
+}
+
+img {
+	border-radius: 5px;
+}
+
+.card {
+	background-color: #2a2523;
+	padding: 10px;
+}
+
+.facts {
+	border: solid 1px #fff;
+	border-radius: 5px;
+	color: #fff;
+	padding: 8px;
+	font-family: arial;
+}
+
+.facts ul {
+	list-style: none;
+	padding: 5px;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
+
+.fact-info {
+	font-weight: bold;
+}
